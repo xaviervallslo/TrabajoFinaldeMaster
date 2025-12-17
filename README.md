@@ -20,6 +20,6 @@ Proyecto final de Data Analytics centrado en salud pública con foco en la OMS. 
 # Entregables
 * Repositorio con notebooks/scripts documentados
 * Dashboard interactivo
+* Modelo predictivo
 * Memoria técnica
-* 
 * Presentación final
