@@ -5,21 +5,21 @@ Proyecto final de Data Analytics centrado en salud pública con foco en la OMS. 
 
 
 # Objetivos
-*Analizar datos reales de salud y contexto socioeconómico.
-*Identificar variables clave que influyen en la esperanza de vida.
-*Construir modelos predictivos interpretables.
-*Comunicar resultados con visualizaciones claras y un dashboard ejecutivo para la OMS 
+* Analizar datos reales de salud y contexto socioeconómico.
+* Identificar variables clave que influyen en la esperanza de vida.
+* Construir modelos predictivos interpretables.
+* Comunicar resultados con visualizaciones claras y un dashboard ejecutivo para la OMS 
 
 # Alcance y metodología
-*Recolección y limpieza de datos fuentes públicas.
-*Análisis exploratorio y formulación de hipótesis.
-*Modelado estadístico/predictivo.
-*Diseño de KPIs y dashboard.
-*Conclusiones accionables y limitaciones del análisis 
+* Recolección y limpieza de datos fuentes públicas.
+* Análisis exploratorio y formulación de hipótesis.
+* Modelado estadístico/predictivo.
+* Diseño de KPIs y dashboard.
+* Conclusiones accionables y limitaciones del análisis 
 
 # Entregables
-*Repositorio con notebooks/scripts documentados
-*Dashboard interactivo
-*Memoria técnica
-*
-*Presentación final
+* Repositorio con notebooks/scripts documentados
+* Dashboard interactivo
+* Memoria técnica
+* 
+* Presentación final
