@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto realiza un análisis de datos para comprender los factores globales que influyen en la esperanza de vida de los países. Utilizando técnicas de análisis exploratorio de datos, examinamos las relaciones complejas entre la desigualdad económica, la pobreza, el acceso a la salud y los resultados de salud poblacional.
+Este proyecto realiza un análisis de datos para comprender los factores globales que influyen en la esperanza de vida de los países. Utilizando técnicas de análisis exploratorio de datos, examinamos las relaciones complejas entre la desigualdad económica, la pobreza, el acceso a la salud y los resultados de salud poblacional. 
 
 El análisis cubre los países con datos que abarcan desde 2000 hasta 2019, integrando múltiples conjuntos de datos internacionales para identificar predictores clave de la esperanza de vida y proporcionar recomendaciones de políticas basadas en evidencia.
 
